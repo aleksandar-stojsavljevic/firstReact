@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Damir",
+      "email": "damir@gmail.com",
+      "phone": "555-888-333",
+      "location": "Subotica"
+    },
+    {
+      "id": 2,
+      "name": "Sale",
+      "email": "sale@gmail.com",
+      "phone": "444-777-222",
+      "location": "Subotica"
+    },
+    {
+      "id": 6,
+      "name": "Aleksandar Stojsavljević",
+      "email": "aleksandarstojsavljevic@gmail.com",
+      "phone": "123-123-123",
+      "location": "Mars"
+    },
+    {
+      "name": "Milica duga trepavica",
+      "email": "mika.trepavica@gmail.con",
+      "phone": "854-895-412",
+      "location": "Mali mokri lug",
+      "id": 8
+    }
+  ]
+}
